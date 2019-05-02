@@ -152,10 +152,5 @@ namespace Shutta
                 return (players[0].Score > players[1].Score) ? players[0] : players[1];
 
         }
-
-        private static void SwitchCard(List<Player> players)
-        {
-            
-        }
     }
 }
